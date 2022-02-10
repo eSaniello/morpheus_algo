@@ -1,0 +1,29 @@
+{
+  "name": "morpheus_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esaniello/morpheus_bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esaniello/morpheus_bot/issues"
+  },
+  "homepage": "https://github.com/esaniello/morpheus_bot/",
+  "dependencies": {
+    "body-parser": "",
+    "express": "",
+    "ftx-api-rest": "",
+    "ftx-api-ws": "0.0.11",
+    "node-cron": "",
+    "node-telegram-bot-api": "",
+    "sqlite3": ""
+  }
+}
